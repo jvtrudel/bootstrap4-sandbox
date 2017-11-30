@@ -1,0 +1,4 @@
+div-borders: |
+    <script type="text/javascript">
+        $('div').css('border','1px dotted red');
+    </script>
