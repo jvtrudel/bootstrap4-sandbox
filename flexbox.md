@@ -2,7 +2,7 @@
 layout: basics
 title: Flexbox
 ---
-<section class="container-fluid" style="background-color: #F8F8F8">
+<section class="container-fluid" style="background-color: #F0F0F0">
 <h2>Flex rows</h2>
 <h3>Normal</h3>
 <div class="d-flex flex-row" style="height: 100px; background-color: darkgray;">
@@ -48,5 +48,3 @@ title: Flexbox
   <div class="p-2 order-first order-md-last" >Case banane</div>
 </div>
 </section>
-
-{{site.data.helpers.div-borders}}
